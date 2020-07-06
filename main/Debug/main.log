@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\GameSnake\main\Console.h(32,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\GameSnake\main\Console.h(32,28): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\GameSnake\main\main.cpp(331,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\GameSnake\main\main.cpp(450,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\GameSnake\main\main.cpp(569,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.vcxproj -> D:\GameSnake\Debug\main.exe
